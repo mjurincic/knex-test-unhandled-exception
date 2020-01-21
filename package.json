@@ -1,0 +1,26 @@
+{
+  "name": "knex-test-unhandled-exception",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "envy": "^2.0.0",
+    "find": "^0.3.0",
+    "recursive-readdir": "^2.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjurincic/knex-test-unhandled-exception.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mjurincic/knex-test-unhandled-exception/issues"
+  },
+  "homepage": "https://github.com/mjurincic/knex-test-unhandled-exception#readme"
+}
