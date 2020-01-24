@@ -4,8 +4,10 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
+    "autocannon": "^4.4.2",
     "envy": "^2.0.0",
     "find": "^0.3.0",
+    "node-fetch": "^2.6.0",
     "recursive-readdir": "^2.2.2"
   },
   "devDependencies": {},
